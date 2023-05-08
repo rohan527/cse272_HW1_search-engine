@@ -6,10 +6,10 @@
 
 
 
-### Name: Rohan Ghosalkar (rghosalk@ucsc.edu)
-### SID: 2005624
+## Name: Rohan Ghosalkar (rghosalk@ucsc.edu)
+## SID: 2005624
 
-### Instructor: Yi Zhang
+## Instructor: Yi Zhang
 
 
 ### Introduction
